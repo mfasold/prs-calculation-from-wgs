@@ -187,7 +187,7 @@ wget https://ftp.ebi.ac.uk/pub/databases/spot/pgs/resources/pgsc_HGDP+1kGP_v1.ta
 ### Creation of a combined locations file
 
 We will do this analysis for the six PGS
-PGS000662,PGS000192,PGS000043,PGS000210,PGS000882,PGS000904. I tried to do the analysis for *all* scores in
+PGS000662, PGS000192, PGS000043, PGS000210, PGS000882, PGS000904. I tried to do the analysis for *all* scores in
 one go, but it did not work out. Please replace these PGS with whatever list of scores you are interested in.
 
 ```
