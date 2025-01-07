@@ -76,7 +76,7 @@ At this point, your command prompt should begin with `(venv) (base)` that shows 
 
 ## Calculating PRS with the PRSKB CLI
 
-## Preparation
+### Preparation
 
 Download the PRSKB CLI tool from [here](https://prs.byu.edu/cli_download.html) and install the required dependencies
 
