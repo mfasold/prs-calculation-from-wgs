@@ -7,7 +7,7 @@ This repository contains the commands and important data files that I used for t
 
 The following files are provided:
 
- - the actual reference genome used by Nebula Genomics (see subfolder `reference-genome`)
+ - the actual reference genome used by Nebula Genomics (download and `gunzip` [this file](https://mfasold.net/download/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.fna.gz) and the `.tbi` file the subfolder `reference-genome`)
  - The "alleles VCF" file containing the locations and alleles for all DNA variants used in the
    PGSKB CLI tool (as of 2024-05) in the subfolder `PRSKB`
    
